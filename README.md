@@ -17,8 +17,8 @@
 - 🧩 **전방위 기술 스택**:  
   - **Front-end**: React, Firebase, Vite  
   - **Back-end**: Spring Boot, Express, MySQL
-  - **AI/ML**: Python, BeautifulSoup, Groq, Gemma, LSTM, NLP 
-  - **DevOps & Infra**: Docker, GitHub Actions, Google Cloud, **AWS EC2**, **Ubuntu Server**  
+  - **AI**: Python, BeautifulSoup, Groq, Gemma, LSTM, NLP 
+  - **DevOps & Infra**: Docker, GitHub Actions, Google Cloud, AWS EC2, Ubuntu Server
   - **Blockchain**: **Solidity**, Truffle, Ethers.js, MetaMask 연동
 
 ---
