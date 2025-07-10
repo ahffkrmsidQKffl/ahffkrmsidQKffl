@@ -32,7 +32,7 @@
 | 📰 뉴스 요약 플랫폼 | 	MZ세대를 위한 짧고 재밌는 뉴스 큐레이션 서비스 | React, Spring Boot, Groq, Python, ... |
 | 🎲 실물 연동 NFT 랜덤박스 | 실제 상품을 NFT로 발행, 메타마스크 연동 랜덤 지급 | React, Express, Solidity, ... |
 | 🅿️ 개인 맞춤형 주차장 추천 | 공공데이터 기반 실시간 예측 + 거리/요금 종합 점수 | React, Spring Boot, Python, ... |
-| 🧓 시니어 일자리 추천 플랫폼 | AI 기반 이력서 생성 및 적합 일자리 자동 매칭 | React, Spring Boot, Groq, Python, ... |
+| 🧓 시니어 일자리 추천 플랫폼 | AI 기반 이력서 생성 및 적합 일자리 자동 매칭 | React, Spring Boot, Python, ... |
 
 ---
 
