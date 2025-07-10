@@ -19,7 +19,7 @@
   - **Back-end**: Spring Boot, Express, MySQL
   - **AI**: Python, BeautifulSoup, Groq, Gemma, LSTM, NLP 
   - **DevOps & Infra**: Docker, GitHub Actions, Google Cloud, AWS EC2, Ubuntu Server
-  - **Blockchain**: Solidity, Truffle, Ethers.js, MetaMask 연동
+  - **Blockchain**: Solidity, Truffle, Ethers.js, MetaMask
 
 ---
 
