@@ -17,7 +17,7 @@
 - 🧩 **전방위 기술 스택**:  
   - **Front-end**: React, Firebase, Vite  
   - **Back-end**: Spring Boot, Express, MySQL
-  - **데이터 분석 및 전처리**: BeautifulSoup, Pandas, Numpy, matplotlib, seaborn
+  - **데이터 분석 및 전처리**: Selenium, BeautifulSoup,  Pandas, Numpy, matplotlib, seaborn
   - **AI**: HuggingFace, TensorFlow, PyTorch, Keras, Scikit-learn
   - **DevOps & Infra**: Docker, GitHub Actions, Google Cloud, AWS EC2, Ubuntu Server
   - **Blockchain**: Solidity, Truffle, Ethers.js, MetaMask
